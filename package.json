@@ -1,0 +1,21 @@
+{
+  "name": "@hyrious/rvdata2-textconv",
+  "version": "0.1.0",
+  "description": "git diff textconv tool for Scripts.rvdata2",
+  "type": "module",
+  "exports": "./index.js",
+  "bin": "./bin.js",
+  "keywords": [
+    "git",
+    "diff",
+    "textconv",
+    "rvdata2",
+    "ruby",
+    "marshal"
+  ],
+  "author": "hyrious <hyrious@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hyrious/marshal": "^0.2.4"
+  }
+}
