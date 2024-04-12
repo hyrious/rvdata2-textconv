@@ -1,6 +1,6 @@
 {
   "name": "@hyrious/rvdata2-textconv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "git diff textconv tool for Scripts.rvdata2",
   "type": "module",
   "exports": "./index.js",
