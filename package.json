@@ -16,6 +16,6 @@
   "author": "hyrious <hyrious@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "@hyrious/marshal": "^0.2.4"
+    "@hyrious/marshal": "^0.3.3"
   }
 }
